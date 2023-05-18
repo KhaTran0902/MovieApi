@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MovieApi.git/static/css/main.cb0e8a75.css",
+    "main.js": "/MovieApi.git/static/js/main.300c53c7.js",
+    "index.html": "/MovieApi.git/index.html",
+    "main.cb0e8a75.css.map": "/MovieApi.git/static/css/main.cb0e8a75.css.map",
+    "main.300c53c7.js.map": "/MovieApi.git/static/js/main.300c53c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb0e8a75.css",
+    "static/js/main.300c53c7.js"
+  ]
+}
