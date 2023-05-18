@@ -1,0 +1,31 @@
+.header {
+  width: 100%;
+  height: 100%;
+}
+.headerLeft {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+
+  padding: 10px 20px;
+}
+.header__icon {
+  display: flex;
+  justify-content: space-between;
+
+  width: 120px;
+  cursor: pointer;
+}
+.header__icon a img {
+  display: block;
+  width: 100%;
+}
+.headerLeft a {
+  font-size: 20px;
+  color: #fff;
+  margin: 10px 20px;
+  display: inline-block;
+}
+.headerLeft a span:hover {
+  color: blue;
+}
